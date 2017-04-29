@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+<!-- PLEASE CHOOSE AN APPROPRIATE SUBJECT FOR YOUR ISSUE -->
+<!-- ALSO MAKE SURE TO INCLUDE AN APPROPRIATE TITLE FOR YOUR ISSUE -->
+<!-->
+<!-- DO NOT DELETE THE CONTENT ON THIS PAGE. FILL OUT ENTIRELY -->
+<!-- PLEASE TICK THE CHECKBOXES BY REPLACING THE "[ ]" WITH "[x]" -->
+<!-->
+- [ ] I am running the latest version of FoolCraft
+- [ ] I am running FoolCraft via Curse/Twitch Launcher
+- [ ] I can reproduce this issue consistently
+     - [ ] In single player
+     - [ ] In multiplayer
+- [ ] I have searched for this issue previously and it was either (1) not previously reported, or (2) previously fixed and I'm having the same problem.
+- [ ] I am crashing and can provide my crash report(s)
+<!-->
+<!-- If your issue matches AT LEAST 4 of the criteria above or 1 of the below, continue. -->
+## SUGGESTION/HELP
+- [ ] I would like to propose an additional mod, config change, custom recipe, etc.
+- [ ] I am requesting help with installing or running the pack
 
-You can use the [editor on GitHub](https://github.com/PSILONCRAFTED/ISSUES/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- ISSUE DESCRIPTION - Please describe the issue in detail. -->
+## Issue Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<!-- REPRODUCE STEPS - Please describe how I can reproduce this issue below ## Reproduce Steps. -->
+## Reproduce Steps
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PSILONCRAFTED/ISSUES/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!-- ADDITIONAL INFORMATION - Please post any crash reports, screenshots, etc. here. (use Pastebin or Imgur accordingly) -->
+## Additional Information
